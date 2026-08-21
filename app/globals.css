@@ -13,5 +13,8 @@
 
 .logo-link img{width:145px}
 @media(max-width:800px){.logo-link img{width:110px}}
+.about-page>div:last-child{max-width:620px}
+.about-page p{font-family:'Libre Caslon Text',Georgia,serif;font-size:18px;font-weight:400;color:var(--brown);line-height:1.35;margin:0 0 24px}
+@media(max-width:520px){.about-page p{font-size:16px}}
 
 .wix-hero h1,.light-copy h2,.discover-section>h2,.page-title,.category-heading,.discover-grid h3,.support-panel h2,.wix-footer>h2,.footer-columns h3,.articles-empty h2,.featured-resource h2,.book-grid h3,.post-card h2,.article-shell h1,.article-body h2,.article-body h3,.recent-posts h2{font-family:'Cinzel',serif;font-weight:500}
