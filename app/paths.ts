@@ -1,4 +1,4 @@
-export const basePath = '/faithonjoymountain';
+export const basePath = '';
 
 export function assetPath(path: string) {
   return `${basePath}${path.startsWith('/') ? path : `/${path}`}`;
