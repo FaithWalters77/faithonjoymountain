@@ -11,4 +11,7 @@
 @media(max-width:520px){.main-video-grid{grid-template-columns:1fr}.main-video-grid .youtube-player:nth-child(-n+3),.contributor-grid .youtube-player:last-child{grid-column:auto;width:100%}}
 @media(max-width:700px){.blog-page{padding:55px 24px}.post-card h2{font-size:27px}.article-page{padding:40px 14px 80px}.article-shell{padding:38px 24px 45px}.article-shell h1{font-size:34px;margin-bottom:36px}.article-body{font-size:16px;line-height:1.72}.recent-posts>div{grid-template-columns:1fr}}
 
+.logo-link img{width:145px}
+@media(max-width:800px){.logo-link img{width:110px}}
+
 .wix-hero h1,.light-copy h2,.discover-section>h2,.page-title,.category-heading,.discover-grid h3,.support-panel h2,.wix-footer>h2,.footer-columns h3,.articles-empty h2,.featured-resource h2,.book-grid h3,.post-card h2,.article-shell h1,.article-body h2,.article-body h3,.recent-posts h2{font-family:'Cinzel',serif;font-weight:500}
