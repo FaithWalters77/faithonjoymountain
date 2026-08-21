@@ -26,6 +26,8 @@ jobs:
       - run: corepack prepare pnpm@10.14.0 --activate
       - run: pnpm install --frozen-lockfile
       - run: pnpm run build
+      - name: Place generated assets at the GitHub Pages repository root
+        run: cp -R dist/client/faithonjoymountain/_next dist/client/_next
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
