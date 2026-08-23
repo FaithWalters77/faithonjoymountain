@@ -5,6 +5,11 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://faithonjoymountain.com/'),
   title: 'Faith on Joy Mountain',
   description: 'Bible teaching, worship, and truth-filled resources illuminating the Word of God.',
+  alternates: {
+    types: {
+      'application/rss+xml': '/feed.xml',
+    },
+  },
   openGraph: {
     title: 'Faith on Joy Mountain',
     description: 'Illuminating the Word of God through Bible teaching, worship, and truth-filled resources.',

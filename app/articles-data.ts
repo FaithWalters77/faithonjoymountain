@@ -2,6 +2,7 @@ export const articles = [
   {
     "slug": "rest-and-entering-the-promised-land",
     "title": "Rest and Entering The Promised Land",
+    "publishedDate": "2026-08-21T02:23:44.655Z",
     "excerpt": "Hebrews 3:7 – 4:11",
     "blocks": [
       {
@@ -77,6 +78,7 @@ export const articles = [
   {
     "slug": "faith-belief-and-works-paul-and-james",
     "title": "Faith, Belief and Works; Paul and James",
+    "publishedDate": "2026-08-20T23:06:54.000Z",
     "excerpt": "Believe - pisteuō: v. to think to be true, to be persuaded of, to credit, place confidence in.",
     "blocks": [
       {
@@ -148,6 +150,7 @@ export const articles = [
   {
     "slug": "the-difference-between-being-in-christ-and-christ-in-you",
     "title": "The Difference Between Being in Christ and Christ in You",
+    "publishedDate": "2026-08-19T19:03:38.848Z",
     "excerpt": "We don't often stop to think why these are written two different ways, or what the difference is. And this is where things gets muddy in the Christ is in everyone doctrine. So let's take a look at what both of these mean.",
     "blocks": [
       {
@@ -231,6 +234,7 @@ export const articles = [
   {
     "slug": "why-universalism-doesn-t-pass-the-sniff-test",
     "title": "Why Universalism Doesn't Pass the Sniff Test",
+    "publishedDate": "2026-08-19T00:46:21.000Z",
     "excerpt": "Universalism is not a new theology. It is largely based on verses such as 1 Corinthians 15:14-22 - verse 22: For as in Adam all die, so also in Christ shall all be made alive.And Romans 5:12-18 - verse 18: Therefore, as one trespass led to condemnation for all men, so one act of righteousness leads to justification and life for all men.",
     "blocks": [
       {
