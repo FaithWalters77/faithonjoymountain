@@ -12,6 +12,7 @@
 @media(max-width:700px){.blog-page{padding:55px 24px}.post-card h2{font-size:27px}.article-page{padding:40px 14px 80px}.article-shell{padding:38px 24px 45px}.article-shell h1{font-size:34px;margin-bottom:36px}.article-body{font-size:16px;line-height:1.72}.recent-posts>div{grid-template-columns:1fr}}
 
 .logo-link img{width:145px}
+.brevo-subscribe{display:block;width:100%;max-width:540px;height:305px;margin:0 auto;border:0}
 @media(max-width:800px){.logo-link img{width:110px}}
 .about-page>div:last-child{max-width:620px}
 .about-page p{font-family:'Libre Caslon Text',Georgia,serif;font-size:18px;font-weight:400;color:var(--brown);line-height:1.35;margin:0 0 24px}
