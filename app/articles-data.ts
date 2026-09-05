@@ -1,5 +1,97 @@
 export const articles = [
   {
+      "slug": "the-mystic-problem-of-astral-worship",
+      "title": "The Mystic Problem of Astral Worship",
+      "publishedDate": "2026-09-04T20:23:28-04:00",
+      "excerpt": "In this New Covenant timeframe, there has been a return to an ancient Old Covenant practice. Astral worship.",
+      "blocks": [
+          {
+              "tag": "p",
+              "html": "In this New Covenant timeframe, there has been a return to an ancient Old Covenant practice. Astral worship. The Israelites were called adulterers and prostitutes for engaging in and mixing this idolatry with their faith. This practice has long been around, but not within the church. This practice has been infiltrating Christian circles in the last decade, and has become more pronounced in the past few years. Everything must be tested against the Word."
+          },
+          {
+              "tag": "p",
+              "html": "We see a concerning trend among certain Christian circles, embracing this once again with the infatuation and fascination of stars, space and planets and connecting with beings in these places. It is being presented as part of a practice we have long forgotten and should re-develop as part of God's gift to us. This practice includes things like astral projection, transcendental meditation, communing with the dead, time/dimension jumping, and visiting/connecting with other dimensional beings and aliens."
+          },
+          {
+              "tag": "p",
+              "html": "I have even seen a popular minister saying these are part of our children of God cosmic community and are our brothers and sisters. And they love them and interact with them. And the current disclosure discourse in media has heightened interest. Well, we are not worshipping them, you might say, so it's different. You don't have to build temples or make idols to worship something. You just have to give them an importance that leads to your attention of that over the attention placed on God Himself; interacting in a way where you gain knowledge, wisdom, understanding from them, instead of the Holy Spirit. But know this: they will never give you Truth. If they are of angelic or holy creation, they will ALWAYS point you to God. But if they offer secret knowledge, cosmic understanding, enlightenment or conscious awakening, they are of the same deception that was in the Garden of Eden. It's the same old game."
+          },
+          {
+              "tag": "p",
+              "html": "Bob Jones said more than once, that these “aliens” are of demonic origins. They are not your friends, or part of your cosmic family. They can parade as beings of light to entice you, to bring you away from the True Light. The Israelites were so enticed."
+          },
+          {
+              "tag": "p",
+              "html": "In ancient Near Eastern culture, we see Israel mixing in astral bodies/star gods from Mesopotamia/Akkadia/Assyria/Babylon. The first martyr Stephen actually addresses this in Acts 7:43 to the High Council. Acts 7:43 “You took up tents of Molech and the astral body/star of your god Remphan, the replicas which you made so that you worship them, and I will exile you a long way beyond Babylon” He is speaking of Amos 5:26-27."
+          },
+          {
+              "tag": "p",
+              "html": "Amos 5:26-27 You will pick up your images of Sikkuth (Moloch/Molech), your king, and Kiyyun, your star god, which you made for yourselves, and I will drive you into exile beyond Damascus,\" says the LORD. He is called the God who commands armies!"
+          },
+          {
+              "tag": "p",
+              "html": "<em>Chiun</em> or <em>Kiyyun</em> is associated with <em>Kayamanu</em>/<em>Kajamanu</em>, the Mesopotamian name for Saturn, and is associated with the astral deity <em>Ninurta</em>. The name <em>Remphan</em>/<em>Rephan</em>, as Stephen used, is the Greek Septuagint translation of <em>Kiyyun</em>/<em>Chiun</em>. <em>Remphan</em> wasn't a name of a god with a star symbol, it was the name for Saturn. <em>Kiyyun</em>/<em>Kaiwan</em> is the Akkadian identifier for Saturn worshipped as a deity."
+          },
+          {
+              "tag": "p",
+              "html": "Other mentions of astral worship are Deuteronomy 4:19, 2 Kings 23:5, 2 Kings 21:3-5."
+          },
+          {
+              "tag": "p",
+              "html": "Under Manasseh, astral worship was established in the temple:"
+          },
+          {
+              "tag": "p",
+              "html": "2 Kings 21:3-5 “He rebuilt the high places that his father Hezekiah had destroyed; he set up altars for Baal and made an Asherah pole just like King Ahab of Israel had done. He bowed down to all the stars in the sky and worshiped them. He built altars in the LORD's temple, about which the LORD had said, \"Jerusalem will be my home.\" In the two courtyards of the LORD's temple he built altars for all the stars in the sky. He passed his son through the fire and practiced divination and omen reading. He set up a ritual pit to conjure up underworld spirits, and appointed magicians to supervise it. He did a great amount of evil in the sight of the LORD, provoking him to anger.”"
+          },
+          {
+              "tag": "p",
+              "html": "And under Josiah, it was torn down:"
+          },
+          {
+              "tag": "p",
+              "html": "2 Kings 23:4-5 “The king ordered Hilkiah the high priest, the high-ranking priests, and the guards to bring out of the LORD's temple all the items that were used in the worship of Baal, Asherah, and all the stars of the sky. The king burned them outside of Jerusalem in the terraces of Kidron, and carried their ashes to Bethel. He eliminated the pagan priests whom the kings of Judah had appointed to offer sacrifices on the high places in the cities of Judah and in the area right around Jerusalem. (They offered sacrifices to Baal, the sun god, the moon god, the constellations, and all the stars in the sky.)” Yes, we live in a New Covenant, but that does not make astral worship suddenly acceptable. These principalities and powers are still the same."
+          },
+          {
+              "tag": "p",
+              "html": "The Christian ministers (who often refer to themselves as Mystics) today, practicing this, may not be setting up altars or idols. But they are practicing the same rituals, under the name of Christ or Christ consciousness. I witnessed one of these ministers proclaim that he visits with a former minister who has passed, and receives teaching and instruction from him. This is divination. We are to receive our instruction from the Holy Spirit, not from dead people. It did not end well for Saul when he summoned Samuel from the dead (1 Samuel 28 and 31)."
+          },
+          {
+              "tag": "p",
+              "html": "Deuteronomy 4:19 “When you look up to the sky and see the sun, moon, and stars - the whole heavenly creation - you must not be seduced to worship and serve them, for the LORD your God has assigned them to all the people of the world”."
+          },
+          {
+              "tag": "p",
+              "html": "And Deuteronomy 32:16-17 specifically calls these gods or beings “devils”. We have some clues that can further our understanding. This is part of the Song of Moses. In Deuteronomy 32:8-9 it says “When the Most High gave the nations their inheritance, when he divided up humankind, he set the boundaries of the peoples, according to the number of the heavenly assembly (sons of God)”. For the LORD's allotment is his people, Jacob is his special possession. <em>Bene elohim = sons of god.</em>"
+          },
+          {
+              "tag": "p",
+              "html": "Paul draws on this passage in 1 Corinthians 10:20-21: “No, I mean that what the pagans sacrifce is to demons and not to God. I do not want you to be partners with demons. You cannot drink the cup of the Lord and the cup of demons. You cannot take part in the table of the Lord and the table of demons”."
+          },
+          {
+              "tag": "p",
+              "html": "Something happened with these <em>bene elohim</em> because Psalm 82 says: God stands in the assembly of El; in the midst of the gods he renders judgment. He says, \"How long will you make unjust legal decisions and show favoritism to the wicked? (Selah) Defend the cause of the poor and the fatherless! Vindicate the oppressed and suffering! Rescue the poor and needy! Deliver them from the power of the wicked! They neither know nor understand. They stumble around in the dark, while all the foundations of the earth crumble. I thought, 'You are gods; all of you are sons of the Most High.' Yet you will die like mortals; you will fall like all the other rulers.\" Rise up, O God, and execute judgment on the earth! For you own all the nations."
+          },
+          {
+              "tag": "p",
+              "html": "And in Daniel 10 we see the named princes as spiritual rulers set over nations. Verse 13 “the prince of Persia”, verse 20 “the prince of Grecia” and verse 21 “Michael, your prince”. We can clearly see from context, these are spiritual rulers. As Daniel was being spoken to, he is told (verse 13): However, the prince of the kingdom of Persia was opposing me for twenty-one days. But Michael, one of the leading princes, came to help me, because I was left there with the kings of Persia."
+          },
+          {
+              "tag": "p",
+              "html": "We find Paul again speaking of what we are dealing with: Ephesians 6:12 “For our struggle is not against flesh and blood, but against the rulers, against the powers, against the world rulers of this darkness, against the spiritual forces of evil in the heavens”. We can also look at Ephesians 2:2 and 1 Corinthians 2:6-8."
+          },
+          {
+              "tag": "p",
+              "html": "Now I am not saying that as Christians, we do not or can not see into the Heavenly Realm. It is our home and our citizenship (Philippians 3:20). We have access to the Heavenly Realm and to see it and experience it. We can go boldly before the Throne (Hebrews 4:16). But these things are done by the Spirit in the Spirit, not by our consciousness. These are not the same thing. The Spirit is God-Sourced. Our consciousness is self-sourced and subject to error. And we can get locked in to the lesser heavenlies this way. This is where shamans, witch doctors, mediums and the like access and receive their power. Christ is seated in the Heavenly Realm, ruling over the lesser heavens, the universe and the earth (Ephesians 1:20-22, 6:12, Colossians 1:16, 2:15, 2 Corinthians 12:2, Revelation 12:7-9). The lesser heavens are not our home – we do not want to get stuck there, interacting, receiving knowledge or making “friends”. Be careful of “dimension shifting”. Yes, the Heavenly Realm and the supernatural realms can be considered dimensions. They exist alongside us. But there is a big difference between seeing these places by the Spirit, and projecting yourself or ascending by way of consciousness into them. Like I said earlier – this is not God-Sourced, but is self-sourced. This is where deception lies. This is the medium that summoned Samuel. This is using spiritual powers not sourced by the Holy Spirit. This is aligning yourself with the powers of the lesser heavenlies that are in a fallen state. This is astral worship."
+          },
+          {
+              "tag": "p",
+              "html": "Everything must always point and lead you to Jesus. The attention should always be on Jesus. He is the reason we live and move and have our being. If it's not about the glory and honor of Jesus, showing who He is, what He accomplished, His love and saving power, then what good is it?"
+          }
+      ]
+  },
+  {
     "slug": "rest-and-entering-the-promised-land",
     "title": "Rest and Entering The Promised Land",
     "publishedDate": "2026-08-21T02:23:44.655Z",
