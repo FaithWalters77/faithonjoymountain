@@ -3,7 +3,7 @@ import { articles } from '../../articles-data';
 import { SiteFooter, SiteHeader } from '../../site-chrome';
 import { articleHtml, sitePath } from '../../paths';
 
-const readTimes = [7, 4, 3, 5, 4];
+const readTimes = [6, 7, 4, 3, 5, 4];
 
 export function generateStaticParams() { return articles.map(({ slug }) => ({ slug })); }
 

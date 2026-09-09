@@ -1,5 +1,105 @@
 export const articles = [
   {
+      "slug": "why-is-there-evil",
+      "title": "Why Is There Evil?",
+      "publishedDate": "2026-09-09T15:08:51-04:00",
+      "excerpt": "It is commonly asked, “If there is a God and He is so good, why do bad things happen?”",
+      "blocks": [
+          {
+              "tag": "p",
+              "html": "It is commonly asked, “If there is a God and He is so good, why do bad things happen?” It's not hard to understand why this question is asked. You have perhaps wondered it yourself. Why are there wars, earthquakes, diseases, calamity, disaster and childhood cancer? Most will bring this down to “original sin”, saying that the fall brought with it all the evil things and our sinful state causes the world to contain evil."
+          },
+          {
+              "tag": "p",
+              "html": "Some who have researched a bit will bring up Isaiah 45:7:<br/>“I am the one who forms light and creates darkness; the one who brings about peace and creates calamity. I am the Lord, who accomplishes all these things”."
+          },
+          {
+              "tag": "p",
+              "html": "Some translations will say “peace” and “evil”, instead of peace and calamity. So then the question is asked, how is it that God created evil, and then punishes us for it? How is it fair for God to create evil, create man, and then punish man for the evil He made? So let's take a look at what actually is going on here."
+          },
+          {
+              "tag": "p",
+              "html": "Evil or calamity is the word <em>ra</em> which means evil, distress, misery, injury, calamity or adversity. And the word create is <em>ba-ra</em> which means to create, fashion, shape or form. Knowing this just helps us get a clearer picture of what is being said – we can see that it does not mean moral failing, or evil deeds. We also need to read this verse in context. Isaiah 45 is speaking of God using Cyrus, King of Persia, as His hand to defeat nations, overthrow Babylon, and allow Judah/Israel's return from exile. So this passage is not about God creating “evil” and punishing mankind for it. It's about God orchestrating and ordaining leaders and armies to accomplish His will. We see this through the whole of the Bible, from dealings with nations in the Old Testament, to the destruction of Jerusalem in the New Testament."
+          },
+          {
+              "tag": "p",
+              "html": "But that doesn't really answer the primary question - why do bad things happen? Why did God create the world where evil and sin exist and then punish people for it?"
+          },
+          {
+              "tag": "p",
+              "html": "To properly understand, we have to correct our thinking and understanding somewhat frst. Like I said at the beginning, most will go back to original sin and that sin entered all humanity and now everyone is imputed with sin and corruption and there is evil because of that. But that is really a misrepresented or miscomprehended conclusion."
+          },
+          {
+              "tag": "p",
+              "html": "Sin didn't bring evil, it brought death of covenant and death of spirit. Adam and Eve did not immediately physically drop down dead. We can say this leads to his eventual death, hundreds of years later, but we also need to recognize the spiritual death that took place immediately. They were driven from the Garden, where God's presence inhabited with them."
+          },
+          {
+              "tag": "p",
+              "html": "Genesis 2:17: “but from the tree of the knowledge of good and evil, you shall not eat from it; for in the day that you eat from it you will surely die.”<br/><br/>good – <em>tov.</em> a good thing, beneft, welfare, prosperity, happiness<br/>evil – <em>ra.</em> evil, distress, misery, injury, calamity, adversity<br/>eat – <em>a.khal.</em> to eat, devour, burn up, feed, consume<br/>die- <em>mut.</em> to die, kill, have one executed, perish, dispatch"
+          },
+          {
+              "tag": "p",
+              "html": "The Greek Septuagint (which is always worth looking at, as this was the Scripture Jesus and the Apostles widely used) uses <em>thanatos apothnēskō</em> – dying you shall die."
+          },
+          {
+              "tag": "p",
+              "html": "<em>Thanatos</em> - death, the extinction of life, whether naturally, Lk. 2:26; Mk. 9:1; or violently, Mt. 10:21; 15:4; imminent danger of death, 2Cor. 4:11, 12; 11:23; in NT spiritual death, as opposed to <em>ζωή</em> in its spiritual sense, in respect of a forfeiture of salvation, Jn. 8:51; Rom. 6:16"
+          },
+          {
+              "tag": "p",
+              "html": "<em>apothnēskō</em> - to die (in a literal or fguratively sense); to be about to die, be mortal; to be about to die, be mortal, to die, Mt. 8:32; to decay, rot, as seeds, Jn. 12:24; 1Cor. 15:36; to wither, become dry, as a tree, Jude 12; metaphorically to die the death of fnal condemnation and misery, Jn. 6:50; 8:21, 24; to die to a thing by renunciation or utter separation, Rom. 6:2; 1Cor. 15:31; Gal. 2:19; Col. 3:3."
+          },
+          {
+              "tag": "p",
+              "html": "So we can understand that a spiritual death is not out of context with what the Word says. Loss of covenant, is separation from Life; disconnection of His Source of life."
+          },
+          {
+              "tag": "p",
+              "html": "Genesis 2:9:“And out of the ground Yahweh God caused to grow every tree that is desirable in appearance and good for food; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil”."
+          },
+          {
+              "tag": "p",
+              "html": "So we see three types of trees. There were trees that were desirable/pleasing to look at and good for food."
+          },
+          {
+              "tag": "p",
+              "html": "desirable/pleasing- <em>cha.mad.</em> to desire, covet, take pleasure in, delight in<br/>look at - <em>mar.eh.</em> sight, appearance, vision, phenomenon, spectacle<br/>good - <em>tov.</em> good, pleasant, agreeable, beneft, welfare<br/>food – <em>ma.a.khal.</em> food, fruit, meat"
+          },
+          {
+              "tag": "p",
+              "html": "So we can clearly see these were trees for pleasure of eating and esthetic beauty, as well as food consumption and nutritional beneft to the body. These trees suggest a physical sustenance of Adam and Eve's physical bodies. But then we see two other trees, which are in the center of the Garden. These are listed separately from the trees that are meant for food. The command they are given, is to eat of any tree in the Garden, except the tree of knowledge of good and evil. Interestingly, they are not commanded to be sure to eat of the tree of life, to sustain their health or physical life. So this insinuates that the tree of life served a different purpose."
+          },
+          {
+              "tag": "p",
+              "html": "Life – <em>chay.yim</em> life (abstract emphatic) life, maintenance<br/>We can take a moment to note that the <em>nishmat chayyim</em> is the type of breath of life given to Adam in Genesis 2:7. And in Genesis 3:22, when Adam and Eve were blocked from the tree of life, it was so they could not eat of it and live/<em>chay</em> forever."
+          },
+          {
+              "tag": "p",
+              "html": "So what we are presented with is a consuming or bringing into themselves of a self-sourced, experiential knowledge of good and evil, peace and calamity, good and bad. An abandoning of God-Sourced life, in exchange for knowing the difference between good and bad, experiencing both and having to choose between the two out of their own understanding. This is where the law of sin and death comes in. We can think of these two trees, as two covenants, or more precisely, two ways of living the human experience and how humans related to and interacted with God. They chose relating to God on their own terms and understanding."
+          },
+          {
+              "tag": "p",
+              "html": "We still see this today – the determination for choice, for living “your truth”; the exalting of self importance and a demand to be the arbiter of right and wrong. An extreme push for autonomy. But with this responsibility comes the annoying little result of consequence. In order to know/experience good and evil, there must be both. In order to be self-sourced and have autonomy over that knowledge and the choices that come from it, there must be both good and evil."
+          },
+          {
+              "tag": "p",
+              "html": "This is what Jesus came to undo and reconcile. We can move into a place of no longer drawing from the knowledge of good and evil, but drawing from the Tree of Life. Back to being God-Sourced. When we are born again/resurrected with Him, our spirit is made alive unto God."
+          },
+          {
+              "tag": "p",
+              "html": "Romans 8:10 “But if Christ is in you, though the body is dead because of sin, yet the spirit is alive because of righteousness”.<br/>Colossians 2:13 “And you being dead in your transgressions and the uncircumcision of your fesh, He made you alive with Him, having graciously forgiven us all our transgressions”."
+          },
+          {
+              "tag": "p",
+              "html": "God did not create evil or create sin and then put humanity in it and then punished them for it. There was a choice made and the consequence reaped. God had to interact with and keep covenant with man on those terms. The terms mankind decided for themselves, and many continue to choose today. But the Good News is, we can choose the better covenant. We can live by the Law of the Spirit of Life, instead of the law of sin and death."
+          },
+          {
+              "tag": "p",
+              "html": "Romans 8:2 “For the law of the Spirit of life in Christ Jesus has set you free from the law of sin and of death”."
+          }
+      ]
+  },
+  {
       "slug": "the-mystic-problem-of-astral-worship",
       "title": "The Mystic Problem of Astral Worship",
       "publishedDate": "2026-09-04T20:23:28-04:00",
